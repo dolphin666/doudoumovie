@@ -1,0 +1,2 @@
+/* pages/douban/item.wxss */
+@import '../../sim.js-master/weui/weui.wxss'
